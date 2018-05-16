@@ -12,8 +12,8 @@ OneWire  ds(4);  // on pin 4 (a 4.7K resistor is necessary)
 
 const int LED_PIN = 5; // Thing's onboard, green LED
 
-const char* ssid     = "BJMBEAUDOIN";
-const char* password = "bjmb2562";
+const char* ssid     = "SSID";
+const char* password = "password";
 
 // api.thingspeak.com
 const char* host = "184.106.153.149";
