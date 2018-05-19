@@ -17,7 +17,7 @@ const char* password = "password";
 
 // api.thingspeak.com
 const char* host = "184.106.153.149";
-const char* privateKey = "EUI8192EXC4ROMF9";
+const char* privateKey = "privatekey";
 
 int rest = 900; //15 minutes in seconds
 
